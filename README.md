@@ -1,2 +1,3 @@
-# E-ceruza3
-Ez egy olyan naptár amelyben feljegyezhetőek minden iskolai. Lehet üzeneteket küldeni és fogadni is.
+# E-ceruza
+Egy digitális diáknaptár amelybe feljegyezhető az összes fontos iskolai bejegyzés. 
+Jelenlegi verzió: v1.12
